@@ -1,0 +1,3 @@
+CSS: [class="home-top-section__button-container"] [class="button"] або .home-top-section__left .button
+
+Xpath: //a[@class='home-top-section__button-container']/div
